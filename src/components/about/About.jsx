@@ -21,21 +21,26 @@ const About = () => {
             <article className='about__card'>
               <FaAward className='about__icon'/>
               <h5>Experience</h5>
-              <small>3+ Years Working</small>
+              <small>2+ Years Working</small>
             </article>
             <article className='about__card'>
               <FiUsers className='about__icon'/>
-              <h5>Clients</h5>
-              <small>200+ Worldwide</small>
+              <h5>Problem Solving</h5>
+              <small>700+ Questions Worldwide</small>
             </article>
             <article className='about__card'>
               <VscFolderLibrary className='about__icon'/>
               <h5>Projects</h5>
-              <small>80+ Completed</small>
+              <small>8+ Completed</small>
             </article>
           </div>
           <p>
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Itaque eum amet enim impedit dignissimos eveniet excepturi harum vitae dolorum ipsam quasi iste accusamus quod dolore, aut vero ut! Ut, eum.
+          Hi , I'm a junior year student in computer science and engineering from Rajiv Gandhi Institute of Petroleum Technology - An Instititue of National Importance at par with IIT's.
+I am competitive programming lead and Founder at CodeChef RGIPT chapter , website team and technical executive at E-CELL RGIPT , membership co-head at ACM RGIPT Student chapter.
+
+I have a deep interest in C++ , data structures , algorithms and Web devlopment.
+Currently, I am exploring my skills into competitive programming on platforms like codechef and codeforces.
+I have completed my both backend and frontend stack with React and Node.
           </p>
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>
