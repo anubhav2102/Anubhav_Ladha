@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Anubhav_Ladha/static/css/main.b7da3b65.css",
-    "main.js": "/Anubhav_Ladha/static/js/main.52ce2f09.js",
+    "main.css": "/Anubhav_Ladha/static/css/main.f00705b8.css",
+    "main.js": "/Anubhav_Ladha/static/js/main.268f1fa2.js",
     "static/media/2.jpeg": "/Anubhav_Ladha/static/media/2.ff2cbafdca09f9a33e1c.jpeg",
+    "static/media/resume.pdf": "/Anubhav_Ladha/static/media/resume.b752d74c6b63adc06200.pdf",
     "static/media/profile.jpeg": "/Anubhav_Ladha/static/media/profile.e8f145dd25e5c2cde4ac.jpeg",
     "static/media/1.png": "/Anubhav_Ladha/static/media/1.4618a93d7507bd8bf1f0.png",
-    "static/media/cv.pdf": "/Anubhav_Ladha/static/media/cv.1ababb7c35ee869b4844.pdf",
     "index.html": "/Anubhav_Ladha/index.html",
-    "main.b7da3b65.css.map": "/Anubhav_Ladha/static/css/main.b7da3b65.css.map",
-    "main.52ce2f09.js.map": "/Anubhav_Ladha/static/js/main.52ce2f09.js.map"
+    "main.f00705b8.css.map": "/Anubhav_Ladha/static/css/main.f00705b8.css.map",
+    "main.268f1fa2.js.map": "/Anubhav_Ladha/static/js/main.268f1fa2.js.map"
   },
   "entrypoints": [
-    "static/css/main.b7da3b65.css",
-    "static/js/main.52ce2f09.js"
+    "static/css/main.f00705b8.css",
+    "static/js/main.268f1fa2.js"
   ]
 }
