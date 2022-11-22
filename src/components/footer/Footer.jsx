@@ -7,9 +7,9 @@ import {BsTwitter} from 'react-icons/bs'
 const Footer = () => {
   return (
     <footer>
-      <a href="#" className='footer__logo'>ANUBHAV LADHA</a>
+      <a href="/" className='footer__logo'>ANUBHAV LADHA</a>
       <ul className="permalinks">
-        <li><a href="#">Home</a></li>
+        <li><a href="/">Home</a></li>
         <li><a href="#about">About</a></li>
         <li><a href="#experience">Experience</a></li>
         <li><a href="#services">Services</a></li>
@@ -19,9 +19,9 @@ const Footer = () => {
       </ul>
 
       <div className='footer__socials'>
-        <a href="https://www.linkedin.com/in/anubhav-ladha-617b1b190/"><BsLinkedin/></a>
-        <a href="https://www.instagram.com/anubhav_2102/?hl=en"><BsInstagram/></a>
-        <a href="https://twitter.com/anubhav_ladha"><BsTwitter/></a>
+        <a href="https://www.linkedin.com/in/anubhav-ladha-617b1b190/" target='_blank' rel='noreferrer'><BsLinkedin/></a>
+        <a href="https://www.instagram.com/anubhav_2102/?hl=en" target='_blank' rel='noreferrer'><BsInstagram/></a>
+        <a href="https://twitter.com/anubhav_ladha" target='_blank' rel='noreferrer'><BsTwitter/></a>
       </div>
       <div className="footer__copyright">
         <small>&copy; Anubhav Ladha. All rights reserved.</small>
