@@ -26,7 +26,6 @@ const About = () => {
             <article className='about__card'>
               <FiUsers className='about__icon'/>
               <h5>Problem Solving</h5>
-              <small>800+ Questions</small>
             </article>
             <article className='about__card'>
               <VscFolderLibrary className='about__icon'/>
@@ -36,10 +35,7 @@ const About = () => {
           </div>
           <p>
           Hi , I'm a junior year student in computer science and engineering from Rajiv Gandhi Institute of Petroleum Technology - An Instititue of National Importance at par with IIT's.
-          I have a deep interest in C++ , data structures , algorithms and Web devlopment.
-Currently, I am exploring my skills into competitive programming on platforms like codechef and codeforces.
-I have completed my both backend and frontend stack with React and Node.
-I am competitive programming lead and Founder at CodeChef RGIPT chapter , website team and technical executive at E-CELL RGIPT , membership co-head at ACM RGIPT Student chapter.
+
           </p>
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>

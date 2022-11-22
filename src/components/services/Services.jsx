@@ -19,14 +19,18 @@ const Services = () => {
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
+
               <p>Specialist (Max Rating - 1455) on Codeforces</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
               <p>Solved more than 700 Questions on different coding platforms</p>
+
+
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
+
               <p>Google Kickstart 2022 - Round D (Rank - 2984), Round B (Rank - 4739)</p>
             </li>
             <li>
