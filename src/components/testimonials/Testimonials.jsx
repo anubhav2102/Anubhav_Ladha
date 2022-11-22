@@ -1,9 +1,7 @@
 import React from 'react'
 import './testimonials.css'
-import AVTR from '../../assets/2.jpeg'
-// import AVTR from '../../assets/2.jpeg'
-// import AVTR from '../../assets/2.jpeg'
-// import AVTR from '../../assets/2.jpeg'
+import AVTR from '../../assets/shrey_sir.jpg'
+import AVTR1 from '../../assets/Prabal.jpg'
 
 import { Pagination } from 'swiper';
 import { Swiper, SwiperSlide } from 'swiper/react';
@@ -14,23 +12,23 @@ import 'swiper/css/pagination';
 const data = [
   {
     avatar: AVTR,
-    name: 'Tina Snow',
-    review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis velit atque maiores ut ullam. Illo quaerat distinctio voluptates, tenetur modi facilis autem dolore.'
+    name: 'Shrey Bhagat - Product Designer (Postman)',
+    review: 'Collaborates with internal and external teams across positions, proactively helps others, puts team targets higher than personal achievements, contributes and takes initiative to social activities'
   },
   {
-    avatar: AVTR,
-    name: 'Shatta Wale',
-    review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis velit atque maiores ut ullam. Illo quaerat distinctio voluptates, tenetur modi facilis autem dolore.'
+    avatar: AVTR1,
+    name: 'Prabal Dev Sharma (UX Enthusiast)',
+    review: 'Create, maintain, audit, and improve systems to meet particular needs. Continuously update new coding knowledge.'
   },
   {
-    avatar: AVTR,
-    name: 'Kwame Despite',
-    review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis velit atque maiores ut ullam. Illo quaerat distinctio voluptates, tenetur modi facilis autem dolore.'
+    avatar: '',
+    name: 'Pranav Jadhav - Software Developer (IBM)',
+    review: 'Help create a good atmosphere and working environment, accepts constructive criticism, follows standards.'
   },
   {
-    avatar:AVTR,
-    name: 'Nana Ama McBrown',
-    review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis velit atque maiores ut ullam. Illo quaerat distinctio voluptates, tenetur modi facilis autem dolore.'
+    avatar:'',
+    name: 'Vipul Shah - Senior Developer (PayPal - Bay Area, San Francisco)',
+    review: 'Propose/use digital technologies to change internal processes,  generates ideas and gives input that makes our product more efficient '
   },
 ]
 
